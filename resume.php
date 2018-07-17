@@ -12,7 +12,7 @@
   <tr>
   <!--<table></table>    this is just a comment-->
   <td colspan="40"><h4>Name: <u>Carlo D. Petalver</u></h4></td>
-  <td rowspan="6" align="center"><a href=""><img src="user.png"></a></td>
+  <td rowspan="6" align="center"><a href=""><img width="100" height="100" src="user.png"></a></td>
   </tr>
   <tr>
   <td>Address: Duol sa Talisay Intawn</td>
