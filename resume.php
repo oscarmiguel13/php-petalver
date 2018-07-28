@@ -3,15 +3,37 @@
 <head>
  <title>My Profile</title>
 </head>
+<style type="text/css">
+  body{
+      font-family: Arial, Helvetica, sans-serif;
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+  }
+  table{
+      border: 1px solid #cccccc;
+      font-family: Arial, Helvetica, sans-serif;
+
+      }
+  td{
+      margin: 5px;
+      padding: 0 20px 0 20px;
+  }
+  .resume{
+      color: #2149d0;
+  }
+  .name{
+      color: #C70039;
+  }
+</style>
 <body style="width: 40%; margin: auto;">
  <div>
  <hr>
- <h1 align="center">RESUME</h1>
+ <h1 align="center" class="resume">RESUME</h1>
  <hr>
  <table align="center">
   <tr>
   <!--<table></table>    this is just a comment-->
-  <td colspan="40"><h4>Name: <u>Carlo D. Petalver</u></h4></td>
+  <td colspan="40"><h4>Name: <u class="name">Carlo D. Petalver</u></h4></td>
   <td rowspan="6" align="center"><a href=""><img src="user.png" width="100" height="100"></a></td>
   </tr>
   <tr>
