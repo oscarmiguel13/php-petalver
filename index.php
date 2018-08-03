@@ -37,7 +37,7 @@
   <td rowspan="6" align="center"><a href=""><img src="user.png" width="100" height="100"></a></td>
   </tr>
   <tr>
-  <td>Address: Duol sa Talisay Intawn</td>
+  <td>Address: Duol sa Talisay Lawaan</td>
   </tr>
   <tr>
   <td>Contact no: 12345667811</td>
